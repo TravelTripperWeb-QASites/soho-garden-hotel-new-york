@@ -1,4 +1,5 @@
 {
-  "name": "Rooftop bar with stunning city views",
-  "order": 3
+  "image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1400&photoreference=CmRZAAAA9kAFi1TzSkF2KiWZeD_Ze5sgJD2f7UZmiYn6P1ukcCnsP0kLI3R0nayUlsZFX5F6XnS9-m_BGzMDJuTcYXB3-kVcS4FzgrBb0Ky_wTXR8zB3cYsMlWFMOV8IeQ_Dl84vEhC0Dzkxo6G8yjELIQMVqmx-GhSeIwnhXStxPdIOIn6DsETY22r9ow&sensor=false&key=AIzaSyCT16upP_-vtI68MBa2YGCmdSoRM73r4nY",
+  "order": 3,
+  "hidden": false
 }
